@@ -10,7 +10,6 @@
 🔗 GitHub: https://github.com/bamlak4  
 🔗 LinkedIn: linkedin.com/in/bamlak-chernet  
 
----
 
 ## 🚀 About Me
 
@@ -22,7 +21,6 @@ Alongside my studies, I am gaining additional experience through programs such a
 
 I enjoy building real-world projects, collaborating with teams, and continuously improving my technical and problem-solving skills.
 
----
 
 ## 🎓 Education
 
@@ -33,8 +31,6 @@ Addis Ababa Science and Technology University (AASTU)
 Completed:
 - Frontend Development (University coursework)
 - Ongoing Backend Development (University + Extracurricular learning)
-
----
 
 ## 🛠️ Skills
 
@@ -68,8 +64,6 @@ Completed:
 - Problem-solving
 - Time management
 
----
-
 ## 💼 Experience & Learning Programs
 
 ### 🔹 African Girls Agility
@@ -84,7 +78,6 @@ Completed:
 - Completed frontend development training
 - Currently advancing backend development skills
 
----
 
 ## 📌 Projects
 
@@ -98,7 +91,6 @@ Completed:
 - Technologies: Java, OOP  
 - Role: Contributor  
 
----
 
 ## 🌱 Interests
 
@@ -108,7 +100,6 @@ Completed:
 - Participating in tech communities  
 - Collaborative software development  
 
----
 
 ## 🤝 Let's Connect
 
@@ -117,6 +108,5 @@ Completed:
 - 🔗 LinkedIn: linkedin.com/in/bamlak-chernet  
 - 💻 GitHub: https://github.com/bamlak4  
 
----
 
 ⭐ Always learning, building, and improving step by step.

@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Bamlak Chernets
+# 👋 Hi, I'm Bamlak Chernet
 
 💻 3rd Year Software Engineering Student  
 🌐 Frontend Developer | Backend Learner  
